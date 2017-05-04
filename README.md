@@ -23,9 +23,11 @@ console.log(matchObject(defaultConfiguration1,"/\\.js$/i"));
 ## API
 
  asRegExp:func
+
   Transform provided string to regex. All special letter will be escape . Such as "/\\.js$/i" will be transformed to  /^\/\\\.js\$\/i/
 
 matchObject:func(obj, str)
+
   The obj must contain `test` attribute which will be transformed by asRegExp firstly. This function will test whether str supplied will match obj.test or not! Obj.test can also be a Array.
 
 
