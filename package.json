@@ -1,0 +1,24 @@
+{
+  "name": "string-to-regex",
+  "version": "0.0.1",
+  "description": "Transform string to regex with special letter escaped",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liangklfangl/string-to-regex.git"
+  },
+  "keywords": [
+    "path",
+    "regex",
+    "string-to-regex"
+  ],
+  "author": "liangklfangl",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liangklfangl/string-to-regex/issues"
+  },
+  "homepage": "https://github.com/liangklfangl/string-to-regex#readme"
+}
